@@ -56,3 +56,9 @@ tr:nth-child(even) {
 tr
 td{text-align: left;}
 
+.ORLANDO:hover{
+    text-shadow: 7px 7px 7px blue;
+    border: black;
+    border: ridge;   
+    display: inline;
+}
