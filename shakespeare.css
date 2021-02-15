@@ -1,0 +1,37 @@
+
+.ORLANDO{
+    font-family:Arial;
+    font-size: 20px;
+    color: brown;
+}
+.ADAM{
+    font-family: Arial;
+    font-size: 20px;
+    color:rgb(61, 15, 134);
+}
+.OLIVER{
+    font-family: Arial;
+    font-size: 20px;
+    color: green;
+}
+
+.speech{
+    font-family: cursive;
+    font-size:100%;
+    color: black;
+    font-weight: normal;
+}
+
+.stage-direction{
+    font-family: Helvetica;
+    font-size: 20px;
+    color: black;
+    background-color: lightgreen;
+}
+
+.stage-direction:hover{
+    background-color: lightsalmon;
+    border: 2px solid;
+    display: inline;
+}
+
