@@ -27,11 +27,12 @@
     font-size: 20px;
     color: black;
     background-color: lightgreen;
+    display: inline;
 }
 
 .stage-direction:hover{
     background-color: lightsalmon;
     border: 2px solid;
-    /*display: inline;*/
+    display: inline;
 }
 
