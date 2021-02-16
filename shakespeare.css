@@ -1,20 +1,9 @@
 
-.ORLANDO{
+.name{
     font-family:Arial;
     font-size: 20px;
-    color: brown;
+    color: black;
 }
-.ADAM{
-    font-family: Arial;
-    font-size: 20px;
-    color:rgb(61, 15, 134);
-}
-.OLIVER{
-    font-family: Arial;
-    font-size: 20px;
-    color: green;
-}
-
 .speech{
     font-family: Verdana;
     font-size:80%;
@@ -35,6 +24,17 @@
     border: 2px solid;
     display: inline;
 }
+
+.ORLANDO{
+    color: brown;
+}
+.ADAM{
+    color:rgb(61, 15, 134);
+}
+.OLIVER{
+    color: green;
+}
+
 table,
 th,
 td {
@@ -62,3 +62,8 @@ td{text-align: left;}
     border: ridge;   
     display: inline;
 }
+img {
+    margin-left: 0px;
+    margin-right:70px;
+    width: 40%;
+  }
