@@ -1,18 +1,18 @@
 
 .name{
-    font-family:Arial;
+    font-family:Arial, Helvetica, sans-serif;
     font-size: 20px;
     color: black;
 }
 .speech{
-    font-family: Verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size:80%;
     color: black;
     font-weight: normal;
 }
 
 .stage-direction{
-    font-family: Helvetica;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
     color: black;
     background-color: lightgreen;
